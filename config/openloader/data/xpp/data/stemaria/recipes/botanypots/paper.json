@@ -1,0 +1,39 @@
+
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:item_exists",
+            "values": [
+                "stemaria:seed_stem_paper",
+                "stemaria:paper_melon"
+            ]
+        }
+    ],
+    "type": "botanypots:crop",
+    "seed": {
+        "item": "stemaria:seed_stem_paper"
+    },
+    "categories": [
+        "dirt",
+        "farmland"
+    ],
+    "growthTicks": 2400,
+    "display": {
+        "type": "botanypots:aging",
+        "block": "croparia:block_crop_paper"
+    },
+    "drops": [
+        {
+            "chance": 1.00,
+            "output": {
+                "item": "stemaria:paper_melon"
+            }
+        },
+        {
+            "chance": 0.01,
+            "output": {
+                "item": "stemaria:seed_stem_paper"
+            }
+        }
+    ]
+}

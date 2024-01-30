@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "croparia:elematilius"
+        },
+        {
+            "item": "ad_astra:calorite_ingot"
+        },
+        {
+            "item": "croparia:croparia6"
+        },
+        {
+            "item": "croparia:croparia6"
+        },
+        {
+            "item": "croparia:croparia6"
+        }
+    ],
+    "result": {
+      "item": "croparia:croparia7",
+      "count": 3
+    },
+    "show_notification": true
+  }

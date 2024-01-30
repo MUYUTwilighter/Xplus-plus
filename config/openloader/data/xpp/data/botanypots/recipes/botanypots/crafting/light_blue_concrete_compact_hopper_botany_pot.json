@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SHS",
+        "SPS",
+        "FSF"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:light_blue_concrete"
+        },
+        "P": {
+            "item": "minecraft:flower_pot"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "F": {
+            "tag": "c:steel_blocks"
+        }
+    },
+    "result": {
+        "item": "botanypots:light_blue_concrete_hopper_botany_pot",
+        "count": 1
+    }
+}

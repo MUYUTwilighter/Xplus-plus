@@ -1,0 +1,37 @@
+{
+    "bookshelf:load_conditions": [
+        {
+            "type": "bookshelf:item_exists",
+            "values": [
+                "spontaneous-replace:spider_chrysalis",
+                "spontaneous-replace:compact_gossamer"
+            ]
+        }
+    ],
+    "type": "botanypots:crop",
+    "seed": {
+        "item": "spontaneous-replace:spider_chrysalis"
+    },
+    "categories": [
+        "dirt"
+    ],
+    "growthTicks": 2400,
+    "display": {
+        "type": "botanypots:simple",
+        "block": "spontaneous-replace:spider_chrysalis"
+    },
+    "drops": [
+        {
+            "chance": 1.00,
+            "output": {
+                "item": "spontaneous-replace:compact_gossamer"
+            }
+        },
+        {
+            "chance": 0.01,
+            "output": {
+                "item": "spontaneous-replace:spider_chrysalis"
+            }
+        }
+    ]
+}

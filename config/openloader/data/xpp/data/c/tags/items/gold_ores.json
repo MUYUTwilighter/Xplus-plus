@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+	  "minecraft:gold_ore",
+	  "minecraft:deepslate_gold_ore",
+    "universal_ores:granite_gold_ore",
+    "universal_ores:diorite_gold_ore",
+    "universal_ores:andesite_gold_ore",
+    "universal_ores:tuff_gold_ore",
+    "universal_ores:calcite_gold_ore",
+    "ad_astra:venus_gold_ore"
+  ]
+}

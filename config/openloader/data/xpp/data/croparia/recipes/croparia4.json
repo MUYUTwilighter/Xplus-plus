@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "croparia:elematilius"
+        },
+        {
+            "item": "botania:terrasteel_nugget"
+        },
+        {
+            "item": "croparia:croparia3"
+        },
+        {
+            "item": "croparia:croparia3"
+        },
+        {
+            "item": "croparia:croparia3"
+        }
+    ],
+    "result": {
+      "item": "croparia:croparia4",
+      "count": 3
+    },
+    "show_notification": true
+  }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "croparia:elematilius"
+        },
+        {
+            "item": "croparia:croparia"
+        },
+        {
+            "item": "croparia:croparia"
+        },
+        {
+            "item": "croparia:croparia"
+        }
+    ],
+    "result": {
+      "item": "croparia:croparia2",
+      "count": 3
+    },
+    "show_notification": true
+  }

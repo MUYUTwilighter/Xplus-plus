@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "sticks",
+    "key": {
+        "X": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "pattern": [
+        "X",
+        "X"
+    ],
+    "result": {
+        "item": "minecraft:stick",
+        "count": 16
+    },
+    "show_notification": true
+}
