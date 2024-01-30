@@ -28,9 +28,9 @@
 /servers.dat
 /servers.dat_old
 /usercache.json
-/[1.20.1][Fabric]Xplus 2.0.jar
-/[1.20.1][Fabric]Xplus 2.0.iml
-/[1.20.1][Fabric]Xplus 2.0.json
+/\[1.20.1\]\[Fabric\]Xplus 2.0.jar
+/\[1.20.1\]\[Fabric\]Xplus 2.0.iml
+/\[1.20.1\]\[Fabric\]Xplus 2.0.json
 /config/*
 !/config/openloader
 /PCL/
