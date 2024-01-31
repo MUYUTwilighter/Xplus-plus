@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:bone_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:bone_storage_block",
+      "count": 1
+    }
+}

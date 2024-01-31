@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:coal_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:coal_storage_block",
+      "count": 1
+    }
+}

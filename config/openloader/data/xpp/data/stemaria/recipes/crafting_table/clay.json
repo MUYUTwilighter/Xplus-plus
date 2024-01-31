@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:clay_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:clay_storage_block",
+      "count": 1
+    }
+}

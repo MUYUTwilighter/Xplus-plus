@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:hallowed_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:hallowed_storage_block",
+      "count": 1
+    }
+}

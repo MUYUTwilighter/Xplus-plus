@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:orichalcum_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:orichalcum_storage_block",
+      "count": 1
+    }
+}

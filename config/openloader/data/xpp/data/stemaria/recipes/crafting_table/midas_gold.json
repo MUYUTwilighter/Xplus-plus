@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:midas_gold_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:midas_gold_storage_block",
+      "count": 1
+    }
+}

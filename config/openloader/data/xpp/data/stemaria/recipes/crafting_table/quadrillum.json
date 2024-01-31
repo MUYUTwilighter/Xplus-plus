@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:quadrillum_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:quadrillum_storage_block",
+      "count": 1
+    }
+}

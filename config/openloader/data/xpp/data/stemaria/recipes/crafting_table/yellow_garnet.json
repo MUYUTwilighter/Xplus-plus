@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:yellow_garnet_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:yellow_garnet_storage_block",
+      "count": 1
+    }
+}

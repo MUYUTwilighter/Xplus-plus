@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:wither_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:wither_storage_block",
+      "count": 1
+    }
+}

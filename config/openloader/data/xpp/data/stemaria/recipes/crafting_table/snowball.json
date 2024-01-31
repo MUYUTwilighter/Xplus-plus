@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:snowball_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:snowball_storage_block",
+      "count": 1
+    }
+}

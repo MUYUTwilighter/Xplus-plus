@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:manganese_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:manganese_storage_block",
+      "count": 1
+    }
+}

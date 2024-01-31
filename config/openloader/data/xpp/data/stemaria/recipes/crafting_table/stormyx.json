@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:stormyx_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:stormyx_storage_block",
+      "count": 1
+    }
+}

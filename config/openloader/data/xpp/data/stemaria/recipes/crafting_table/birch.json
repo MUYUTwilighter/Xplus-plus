@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:birch_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:birch_storage_block",
+      "count": 1
+    }
+}

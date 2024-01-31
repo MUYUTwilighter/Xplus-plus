@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:tungstensteel_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:tungstensteel_storage_block",
+      "count": 1
+    }
+}

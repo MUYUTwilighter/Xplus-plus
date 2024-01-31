@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:lead2_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:lead2_storage_block",
+      "count": 1
+    }
+}

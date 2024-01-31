@@ -1,9 +1,7 @@
 from os import listdir, chdir
 
 def extractElement(raw:str) -> str:
-    raw = raw[10:]
-    i = raw.find('.')
-    return raw[:i]
+    return raw[:-10]
 
 def generateRecipe(element:str) -> str:
     return f'''
@@ -47,15 +45,16 @@ def generateRecipe(element:str) -> str:
 {"}"}
 '''
 
-chdir("E:/Program Files/Minecraft/.minecraft/versions/[1.20.1][Fabric]Xplus 2.0/config/openloader/data/jsm")
-resourceDir = "resources/stemaria_ct_recipes"
+# chdir("E:/Program Files/Minecraft/.minecraft/versions/[1.20.1][Fabric]Xplus 2.0/config/openloader/data/jsm")
+resourceDir = "xpp/resources/stemaria_ct_loot-tables"
 resources = listdir(resourceDir)
 for resource in resources:
-    if "_melon" in resource:
+    if "attached" in resource:
         continue
     else:
         element = extractElement(resource)
         recipe = generateRecipe(element)
-        with open("data/stemaria/recipes/botanypots/" + element + ".json", "w") as file:
+        print(element)
+        with open("xpp/data/stemaria/recipes/botanypots/" + element + ".json", "w") as file:
             file.write(recipe)
             file.close()

@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:acacia_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:acacia_storage_block",
+      "count": 1
+    }
+}

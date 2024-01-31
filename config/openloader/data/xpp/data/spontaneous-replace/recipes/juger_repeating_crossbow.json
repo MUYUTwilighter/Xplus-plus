@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "juger_repeating_crossbow",
+    "key": {
+      "#": {
+        "item": "spontaneous-replace:composite_string"
+      },
+      "$": {
+        "item": "minecraft:chest"
+      },
+      "@": {
+        "item": "minecraft:stripped_crimson_hyphae"
+      },
+      "X": {
+        "item": "spontaneous-replace:arbalest"
+      },
+      "G": {
+        "tag": "c:gaia_ingots"
+      }
+    },
+    "pattern": [
+      "$@#",
+      "@X ",
+      "# G"
+    ],
+    "result": {
+      "item": "spontaneous-replace:juger_repeating_crossbow"
+    },
+    "show_notification": true
+}

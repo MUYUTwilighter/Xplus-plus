@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:carmot_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:carmot_storage_block",
+      "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:blue_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:blue_storage_block",
+      "count": 1
+    }
+}

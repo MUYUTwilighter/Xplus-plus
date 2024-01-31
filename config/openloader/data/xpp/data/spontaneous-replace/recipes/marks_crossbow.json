@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "marks_crossbow",
+    "key": {
+      "#": {
+        "item": "spontaneous-replace:composite_string"
+      },
+      "$": {
+        "item": "minecraft:lever"
+      },
+      "&": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "@": {
+        "item": "minecraft:stripped_warped_hyphae"
+      },
+      "X": {
+        "item": "spontaneous-replace:compound_bow"
+      },
+      "G": {
+        "tag": "c:gaia_ingots"
+      }
+    },
+    "pattern": [
+      "$@&",
+      "@X#",
+      "&#G"
+    ],
+    "result": {
+      "item": "spontaneous-replace:marks_crossbow"
+    },
+    "show_notification": true
+  }

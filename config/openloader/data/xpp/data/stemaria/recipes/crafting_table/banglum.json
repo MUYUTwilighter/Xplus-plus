@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:banglum_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:banglum_storage_block",
+      "count": 1
+    }
+}

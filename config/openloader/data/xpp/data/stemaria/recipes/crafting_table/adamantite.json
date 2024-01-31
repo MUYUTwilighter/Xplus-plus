@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:adamantite_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:adamantite_storage_block",
+      "count": 1
+    }
+}

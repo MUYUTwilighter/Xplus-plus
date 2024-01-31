@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:oak_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:oak_storage_block",
+      "count": 1
+    }
+}

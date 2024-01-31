@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "stemaria:copper_melon"
+        }
+    ],
+    "result": {
+      "item": "techreborn:copper_storage_block",
+      "count": 1
+    }
+}
